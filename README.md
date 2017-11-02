@@ -1,2 +1,2 @@
-# Basic_Android_Course
-Recursos  y ejemplos del curso de android básico. 
+# Basic Android Course
+Aquí encontrarás los recursos  y ejemplos del curso de android básico. 
