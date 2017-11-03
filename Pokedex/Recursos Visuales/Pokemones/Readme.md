@@ -66,7 +66,7 @@ Cada vez que un Pikachu se encuentra con algo nuevo, le lanza una descarga eléc
 
 
 ## Vaporeon
-1[Vaporeon](https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png)
+![Vaporeon](https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png)
 1. Description:
 Vaporeon sufrió una mutación repentina y desarrolló aletas y branquias que le permiten vivir bajo el agua. Asimismo, este Pokémon tiene la habilidad de controlar las aguas. 
 
